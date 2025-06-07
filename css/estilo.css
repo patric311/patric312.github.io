@@ -1,0 +1,133 @@
+.cuerpocolor{
+	color: peachpuff;
+}
+
+.container{
+	justify-content: center;
+	margin: 25px;
+	display: flex ;
+
+	
+}
+
+.imagen{
+width: 250px;
+height:200px ;
+border-radius: 20px;
+
+
+}
+
+.imagen1{
+width: 500px;
+height:200px ;
+border-radius: 20px;
+align-content: center;
+}
+
+
+.card{
+	text-align: center;
+	box-shadow: rgba(0, 0, 0, 0.35)0px 5px 30px;
+	margin: 0 10px;
+	background-color: whitesmoke;
+	}
+
+.card2{
+	text-align: right;
+	box-shadow: rgba(0, 0, 0, 0.35)0px 5px 30px;
+	margin: 0 10px;
+	background-color: skyblue;
+	font-size: 5px;
+}
+
+.imagen2{
+width: 500px;
+height:500px ;
+border-radius: 20px;
+align-content: center;
+}
+
+.container3{
+	justify-content: center;
+	margin: 50px;
+	display: flex ;
+
+}
+
+.card5{
+	text-align: center;
+	background-color: skyblue;
+	align-content: center;
+
+	width: 300px;
+	align-content: center;
+
+}
+.video{
+	width: 800px;
+	height: 400px;
+	display: block;
+	text-align: center;
+	margin: auto;
+}
+
+.titulo{
+	font-size: 20px;
+	color: ivory;
+	font-family: S;
+}
+
+.logo{
+width: 140px;
+height: 80px;
+display: flex;
+margin: 20px;
+}
+
+.textopie{
+	color:black;
+	font-size: 16px;
+	
+}
+.textopie2{
+	color:blue;
+	font-size: 16px;
+	
+}
+
+.color{
+	color:black;
+}
+
+.pie{
+	color: red;
+}
+footer{
+	background-color:papayawhip;
+
+}
+ajustar{
+width: 50px;
+height:20px ;
+border-radius: 10px;
+align-content: center;
+}
+.tituloofertas{
+	text-align: center;
+	font-size: 80px;
+	font-family: calibri;
+}
+.titulocategoria{
+text-align: center;
+	font-size: 80px;
+	font-family: fantasy;
+		color: purple;
+}
+
+.tituloropa{
+	text-align: center;
+	font-size: 80px;
+	font-family: fantasy;
+		color: hotpink;
+}
